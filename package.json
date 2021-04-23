@@ -2,8 +2,9 @@
   "name": "capstonebackend",
   "version": "1.0.0",
   "description": "capstonebackend",
-  "main": "index.js",
+  "main": "routes.js",
   "scripts": {
+    "start": "node routes.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "kalki",
